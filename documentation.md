@@ -2,7 +2,6 @@
     
 
 
-## COINMARKETCAP
 ## [`/mia/get`](https://cmc-cg-api.miaswap.io/mia/get)
 Returns data for the MiaSwap pairs.
 
@@ -119,8 +118,6 @@ Returns data for the MiaSwap farms.
 ```
 
 
-
-## COINGECKO
 
 ## [`/miaswap-cg/pairs`](https://cmc-cg-api.miaswap.io/miaswap-cg/pairs)
 Details on cryptoassets traded on an exchange.
